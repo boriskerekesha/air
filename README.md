@@ -1,4 +1,4 @@
-# Landing page: DIA #
+# Landing page: AIR #
 
 [Link](https://boriskerekesha.github.io/air/)
 
