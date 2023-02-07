@@ -1,0 +1,13 @@
+.logo {
+  display: block;
+  width: 45px;
+  height: 26px;
+  cursor: pointer;
+  
+  &__img {
+    object-fit: cover;
+    object-position: center;
+  }
+
+  @include hover (transform, scale(1.1));
+}
