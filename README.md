@@ -1,6 +1,6 @@
 # Landing page: AIR #
 
-[Link](https://boriskerekesha.github.io/air/)
+[Link](https://boryskerekesha.github.io/air/)
 
 ***
 ### Adaptive landing page for: #
